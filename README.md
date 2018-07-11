@@ -1,11 +1,15 @@
 ## C++ Generic algorithms
 
-The standard Template library provides many types of containers for manipulating many types of containers. TO Manage
+The standard Template library provides many types of containers for manipulating many types of containers. To Manage
 the contents of the containers, the STL include generic algorithms that manipulates elements in common ways
+they are divided into 4 categories
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Non - Modifying Algorithms
+2. Mutating Algorithms
+3. Sorting Algorithms
+4. Numeric algorithms
 
-### Markdown
+### Examples
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
