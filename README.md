@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## C++ Generic algorithms
 
-You can use the [editor on GitHub](https://github.com/evansMeja/C--Generic-Algorithms/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The standard Template library provides many types of containers for manipulating many types of containers. TO Manage
+the contents of the containers, the STL include generic algorithms that manipulates elements in common ways
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
