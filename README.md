@@ -13,7 +13,7 @@ they are divided into 4 categories
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![Image of Yaktocat](https://res.cloudinary.com/decc6gd2d/image/upload/v1527931738/IMG20180526113859.jpg)
+![Image of Yaktocat](https://res.cloudinary.com/decc6gd2d/image/upload/v1527931734/IMG20180526113758.jpg)
 
 ```markdown
 Syntax highlighted code block
